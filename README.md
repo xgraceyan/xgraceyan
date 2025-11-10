@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Grace Yan, and I'm a second-year Computer Science major at UC Irvine!
+My name is Grace Yan, and I'm a Computer Science major at UC Irvine!
 
 I'm primarily interested in full-stack development, currently at @icssc & @ctc-uci
 
